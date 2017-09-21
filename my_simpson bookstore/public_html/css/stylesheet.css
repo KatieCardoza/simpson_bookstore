@@ -25,6 +25,8 @@ p {
 h1 {
 	font-size: 24px;
 	font-family: arial;
-	
 }
-
+.prerequisite {
+	font-style: italic;
+	display: inline;
+}
