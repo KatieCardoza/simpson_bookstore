@@ -1,0 +1,39 @@
+nav{
+	display:block; 
+	list-style-type:none;
+	font-family:arial,helvetica,sans-serif;
+}
+
+nav ul{
+	float:left;
+	text-decoration:none;
+	list-style-type: none; 
+	display: block; 
+	overflow:hidden;
+	background-color:#4A0202;
+	padding-top:5px; 
+	padding-bottom: 5px; 
+	padding-right:600px;
+}
+
+nav ul a {
+	color:white;
+}
+
+h1{
+	text-align:center;
+	font-size:35px;
+	color:#FFCC00;
+	font-family:arial;
+	background-color:#4A0202; 
+	padding-top:20px; 
+	padding-bottom:20px;
+}
+
+body img{
+	align-items: center;
+}
+
+footer{
+	color:#4A0202;
+}
