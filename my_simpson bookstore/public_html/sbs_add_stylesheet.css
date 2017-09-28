@@ -1,3 +1,40 @@
-.belolw_menu_container {
-	padding_top: 50px;
+.below_menu_container {
+	padding-top: 40px;
+}
+
+h1{
+	text-align: center;
+	font-weight: bold;
+}
+
+table{
+	position:relative;
+	left:500px;
+	right:200px;
+	border-style:solid;
+	border-color:#2D2D2D;
+	border-width:2px;
+}
+
+.logo{
+	position:relative;
+	left:230px;
+	right:100px;
+}
+
+p{
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom:10px;
+	border-style:solid;
+	border-color:#2D2D2D;
+	border-width:2px;
+	margin-left:15px;
+	margin-right: 15px;
+}
+
+footer{
+	padding-left:20px;
+	color:#A2A2A2;
+
 }
